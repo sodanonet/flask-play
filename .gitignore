@@ -12,5 +12,6 @@
 # other
 
 #venv
-/venv
+venv
+venv/*.cfg
 
